@@ -6365,4 +6365,8 @@ a.text-danger:focus, a.text-danger:hover {
     display: none !important;
   }
 }
+
+.navbar.navbar-light li a span {
+  color: #363537;
+}
 /*# sourceMappingURL=bootstrap.css.map */
