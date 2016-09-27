@@ -1,5 +1,10 @@
 # brockero.github.io Change Log
 
+#2016-09-26
+- Footer: social menu completed
+- New gfx added for social menu
+- Finally...
+
 #2016-09-21
 - Total rework of the site navigation and template page
 - Implementation of new color scheme
