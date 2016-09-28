@@ -1,3 +1,6 @@
+/* font-family: 'Raleway', sans-serif;
+font-family: 'Lalezar', cursive; */
+
 .nav-link {
   color: #363537;
 }
@@ -19,4 +22,16 @@
 .footer-text {
   color: #363537;
   align: center;
+}
+
+h1 {
+  font-family: 'Lalezar', cursive;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
 }
