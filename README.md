@@ -1,5 +1,10 @@
 # brockero.github.io Change Log
 
+#2016-10-xx
+- Updated color scheme and typography to match new theming
+- Fixed responsive navbar button to appear correctly
+- Continued work on template, available at (brockdelebreau.me/bs)
+
 #2016-09-28
 - Analytics added
 
