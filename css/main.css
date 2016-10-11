@@ -16,7 +16,7 @@ font-family: 'Lalezar', cursive; */
 }
 
 .footer {
-  background-color: #E6E8E6;
+  background-color: #edf2f4;
 }
 
 .footer-text {
@@ -34,4 +34,9 @@ h2 {
 
 body {
   font-family: 'Raleway', sans-serif;
+}
+
+.navbar-brand.name {
+  color: #ef233c;
+  font-weight: bold;
 }
