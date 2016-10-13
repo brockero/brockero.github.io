@@ -40,3 +40,35 @@ body {
   color: #ef233c;
   font-weight: bold;
 }
+
+.social {
+  height: 30px;
+  width: 30px;
+}
+
+.content {
+  padding-top: 50px;
+}
+
+.title {
+  text-align: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.info {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+.info a:link,a:active,a:visited {
+  color:	#ef233c;
+  text-decoration:none;
+}
+
+.info a:hover {
+	color:	#bc0009;
+  text-decoration:underline;
+}

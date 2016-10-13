@@ -1,6 +1,11 @@
 # brockero.github.io Change Log
 
-#2016-10-xx
+#2016-10-12
+- Created content for the Contact page
+- Updated CSS with linking styles
+- Social links updated to open in new tabs instead of same window
+
+#2016-10-10
 - Pagedoc template completed!!!
 - Added template to each page and updated for each respectively
 - Updated color scheme and typography to match new theming
