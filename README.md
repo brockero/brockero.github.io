@@ -1,5 +1,9 @@
 # brockero.github.io Change Log
 
+#2016-10-18
+- Updated social links/images with documentation
+- Added content to homepage/About Me
+
 #2016-10-12
 - Created content for the Contact page
 - Updated CSS with linking styles
