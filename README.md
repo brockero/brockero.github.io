@@ -1,8 +1,15 @@
 # brockero.github.io Change Log
 
+#2016-10-20
+- Style updates across pages
+- Updates to CSS for links across site
+- Established page structure on Resume page
+- Added in PDF of resume to media/pdf
+
+
 #2016-10-18
 - Updated social links/images with documentation
-- Added content to homepage/About Me
+- Added content to About Me
 
 #2016-10-12
 - Created content for the Contact page
