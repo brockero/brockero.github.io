@@ -29,9 +29,11 @@ h1 {
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
+  text-transform: uppercase;
 }
+
 h2, body {
   font-family: 'Raleway', sans-serif;
 }
@@ -91,4 +93,38 @@ h2, body {
 .download a:hover {
   color: #bc0009;
   text-decoration:underline;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+.course {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.school {
+  font-weight: 500;
+  font-style: italic;
+}
+
+.rlist {
+
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    width: 85%;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
