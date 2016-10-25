@@ -21,11 +21,11 @@ font-family: 'Lalezar', cursive; */
 
 .footer-text {
   color: #363537;
-  align: center;
 }
 
 h1 {
   font-family: 'Lalezar', cursive;
+  font-size: 50px;
 }
 
 h2 {
@@ -54,6 +54,10 @@ h2, body {
 
 .title {
   text-align: center;
+}
+
+.main {
+  text-align: left;
 }
 
 .centered {
@@ -107,9 +111,11 @@ h5 {
   text-align: center;
 }
 
-.course {
-  text-align: center;
+.courses {
   list-style-position: inside;
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
 }
 
 .school {
@@ -124,7 +130,11 @@ h5 {
 hr {
     border: 0;
     height: 1px;
-    width: 85%;
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.facts {
+  text-align: right;
+  list-style-position: inside;
 }

@@ -1,5 +1,9 @@
 # brockero.github.io Change Log
 
+#2016-10-25
+- Updated structure of coursework section on Resume to use text columns instead of grid columns
+- 
+
 #2016-10-24
 - Continued work on Resume page working on structure and layout
 - Updated grid system in page, including nested rows
