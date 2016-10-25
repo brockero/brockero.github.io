@@ -2,7 +2,9 @@
 
 #2016-10-25
 - Updated structure of coursework section on Resume to use text columns instead of grid columns
-- 
+- Changed some CSS for efficient alignment
+- Removal of <hr> for CSS borders instead
+- Updated footer to include copyright and Creative Commons licensing
 
 #2016-10-24
 - Continued work on Resume page working on structure and layout

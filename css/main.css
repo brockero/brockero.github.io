@@ -56,8 +56,12 @@ h2, body {
   text-align: center;
 }
 
-.main {
+.main-l {
   text-align: left;
+}
+
+.main-r {
+  text-align: right;
 }
 
 .centered {
@@ -127,14 +131,32 @@ h5 {
 
 }
 
-hr {
-    border: 0;
-    height: 1px;
-    background: #333;
-    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+.border {
+  border-bottom: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
 .facts {
   text-align: right;
   list-style-position: inside;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.cc {
+  color: #BABFC1;
+  font-size: 10px;
+}
+
+.cc a {
+  color: #BABFC1;
+  text-decoration: underline;
 }
