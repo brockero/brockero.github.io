@@ -21,17 +21,19 @@ font-family: 'Lalezar', cursive; */
 
 .footer-text {
   color: #363537;
-  align: center;
 }
 
 h1 {
   font-family: 'Lalezar', cursive;
+  font-size: 50px;
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
+  text-transform: uppercase;
 }
+
 h2, body {
   font-family: 'Raleway', sans-serif;
 }
@@ -52,6 +54,10 @@ h2, body {
 
 .title {
   text-align: center;
+}
+
+.main {
+  text-align: left;
 }
 
 .centered {
@@ -91,4 +97,44 @@ h2, body {
 .download a:hover {
   color: #bc0009;
   text-decoration:underline;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+.courses {
+  list-style-position: inside;
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+}
+
+.school {
+  font-weight: 500;
+  font-style: italic;
+}
+
+.rlist {
+
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.facts {
+  text-align: right;
+  list-style-position: inside;
 }
