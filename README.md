@@ -1,5 +1,10 @@
 # brockero.github.io Change Log
 
+#2016-10-26
+- Added in Resume content
+- Uploaded new resume and link changes
+- Updated CSS to reflect new resume styles
+
 #2016-10-25
 - Updated structure of coursework section on Resume to use text columns instead of grid columns
 - Changed some CSS for efficient alignment
