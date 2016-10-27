@@ -169,10 +169,10 @@ h5 {
   text-align: center;
 }
 
-.about-sect {
-  font-weight: 700;
+.top {
+  line-height: 40px;
 }
 
-.about-list {
-
+.bottom {
+  line-height: 20px;
 }
