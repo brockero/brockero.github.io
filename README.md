@@ -1,5 +1,10 @@
 # brockero.github.io Change Log
 
+#2016-10-27
+- Launched v1 beta!
+- Added content to my About Me page
+- Added Under Construction label to Projects page
+
 #2016-10-26
 - Added in Resume content
 - Uploaded new resume and link changes
