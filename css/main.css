@@ -16,22 +16,163 @@ font-family: 'Lalezar', cursive; */
 }
 
 .footer {
-  background-color: #E6E8E6;
+  background-color: #edf2f4;
 }
 
 .footer-text {
   color: #363537;
-  align: center;
 }
 
 h1 {
   font-family: 'Lalezar', cursive;
+  font-size: 50px;
 }
 
 h2 {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+h2, body {
   font-family: 'Raleway', sans-serif;
 }
 
-body {
+.navbar-brand.name {
+  color: #ef233c;
+  font-weight: bold;
+}
+
+.social {
+  height: 30px;
+  width: 30px;
+}
+
+.content {
+  padding-top: 50px;
+}
+
+.title {
+  text-align: center;
+}
+
+.main-l {
+  text-align: left;
+}
+
+.main-r {
+  text-align: right;
+}
+
+.centered {
+  text-align: center;
+}
+
+.body.info {
   font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+.body a:link,a:active,a:visited {
+  color:	#ef233c;
+  text-decoration:none;
+}
+
+.body a:hover {
+	color:	#bc0009;
+  text-decoration:underline;
+}
+
+#profile-pic {
+  height: 75%;
+  width: 75%;
+}
+
+.download {
+  font-size: 16px;
+  text-align: center;
+}
+
+.download a:link,a:active,a:visited {
+  color: #ef233c;
+  text-decoration:none;
+}
+
+.download a:hover {
+  color: #bc0009;
+  text-decoration:underline;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+.courses {
+  list-style-position: inside;
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+}
+
+.school {
+  font-weight: 500;
+  font-style: italic;
+}
+
+.rlist {
+
+}
+
+.border {
+  border-bottom: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.facts {
+  text-align: right;
+  list-style-position: inside;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.cc {
+  color: #BABFC1;
+  font-size: 10px;
+}
+
+.cc a {
+  color: #BABFC1;
+  text-decoration: underline;
+}
+
+.orgs {
+  font-weight: 500;
+}
+
+.main-c {
+  text-align: center;
+}
+
+.about-sect {
+  font-weight: 700;
+}
+
+.about-list {
+
 }
