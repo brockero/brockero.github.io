@@ -86,6 +86,9 @@ h2, body {
 #profile-pic {
   height: 75%;
   width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .download {
@@ -167,4 +170,15 @@ h5 {
 
 .main-c {
   text-align: center;
+}
+
+.copy {
+  font-size: 10px;
+  text-align: center;
+  color: #BABFC1;
+}
+
+.copy a {
+  color: #BABFC1;
+  text-decoration: underline;
 }

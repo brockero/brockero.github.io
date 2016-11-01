@@ -1,5 +1,12 @@
 # brockero.github.io Change Log
 
+#2016-11-01
+- Updated to Bootstrap v4.0.0-alpha.5
+- Updated HTML and CSS to reflect changes in Bootstrap
+- Changed location and styling of copyright text
+- Updated index to use Flexbox instead of the Bootstrap grid for alignment
+- Updated resume page to reflect changes
+
 #2016-10-27
 - Launched v1 beta!
 - Added content to my About Me page
