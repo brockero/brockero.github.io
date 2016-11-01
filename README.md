@@ -6,6 +6,7 @@
 - Changed location and styling of copyright text
 - Updated index to use Flexbox instead of the Bootstrap grid for alignment
 - Updated resume page to reflect changes
+- Updated nav button to match new Bootstrap CSS
 
 #2016-10-27
 - Launched v1 beta!

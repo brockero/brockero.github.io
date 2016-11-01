@@ -9,7 +9,7 @@
     <meta name="author" content="Brock Delebreau">
 
     <link href="https://fonts.googleapis.com/css?family=Lalezar%7CRaleway" rel="stylesheet">
-    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap-flex.css">
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="icon" href="css/gfx/logo.ico" type="image/x-icon" />
@@ -20,9 +20,7 @@
   <body>
     <div class="container-fluid">
       <nav class="navbar navbar-fixed-top navbar-dark" style="background-color: #2b2d42;">
-        <button class="navbar-toggler hidden-sm-up" type="button" data-toggle="collapse" data-target="#nav-content" style="color: #edf2f4">
-          ☰
-        </button>
+        <button class="navbar-toggler hidden-sm-up" type="button" data-toggle="collapse" data-target="#nav-content" style="color: #edf2f4"></button>
           <div class="collapse navbar-toggleable-xs" id="nav-content">
             <span title="Brock Delebreau"><a class="navbar-brand name" href="http://brockdelebreau.me">Brock Delebreau</a></span>
             <ul class="nav navbar-nav">
@@ -47,12 +45,43 @@
     </div>
 
     <br>
+    <br>
 
     <!-- Start actual page content here -->
 
+    <!--About Me-->
+    <div class="container-fluid content">
+      <div class="row flex-items-xs-middle">
+        <div class="col-md-1"></div>
+        <div class="col-md">
+          <h1 class="main-l">About Me</h1>
+          <h2>I'm a UX/UI designer and front-end developer from Okemos, Michigan.</h2>
+          <p class="body">I am a developer and designer by day (and some nights) and a gamer, techie, and geek by night (and most days). You'll usually find me behind my Mac, staring at my iPhone, or living a fantasy life somewhere.</p>
+          <p class="body">I am currently a student at Michigan State University in the College of Arts and Letters, studying <a href="http://xa.cal.msu.edu" target="_blank">Experience Architecture</a>. XA is a "cutting-edge, interdisciplinary major" that exposes students to "aspects of maneuvering and creating web sites or apps such as designing, coding, writing and digital rhetoric". Basically, we learn how to create beautiful experiences for everyone. <!--I am also working on minors in Digital Humanities and German.--></p>
+          <p class="body">I want to work on projects that I can be proud of while continuing to advance my skills as a designer and a developer. Alongside my development and design work, I have some research experience. Go take a look at some of my projects and <a href="contact">let's get in touch</a>.</p>
+        </div>
+        <div class="col-md">
+          <br>
+          <img id="profile-pic" class="rounded m-x-auto d-block" src="media/img/brock-delebreau-profile-pic.jpg" alt="Brock Delebreau Headshot"/>
+        </div>
+        <div class="col-md-1"></div>
+      </div>
+
+      <br>
+
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+          <p class="copy">&copy; Brock Delebreau. <a href="https://www.iconfinder.com/iconsets/social-media-outline-1" target="_blank">Social Media FREE!</a> by <a href="https://www.iconfinder.com/AlfredoCreates" target="_blank">Alfredo</a> / <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a>.</p>
+        </div>
+        <div class="col-md-3"></div>
+      </div>
+
+    </div>
+
     <footer class="footer">
       <div class="footer-text">
-        <div class="float-left m-l-2">
+        <div class="float-left ml-2">
           <!-- Icons from the set Social Media FREE! available at (https://www.iconfinder.com/iconsets/social-media-outline-1) by Alfredo (https://www.iconfinder.com/AlfredoCreates) licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) -->
           <a href="http://www.facebook.com/delebreau.brock" target="_blank"><img src="css/gfx/fb-icon.png" alt="Facebook Icon" class="social"/></a>
           <a href="http://www.twitter.com/brock_delebreau" target="_blank"><img src="css/gfx/twit-icon.png" alt="Twitter Icon" class="social"/></a>
@@ -60,8 +89,8 @@
           <a href="http://www.instagram.com/brock_delebreau" target="_blank"><img src="css/gfx/ig-icon.png" alt="Instagram Icon" class="social"/></a>
           <a href="http://www.linkedin.com/in/brockdelebreau" target="_blank"><img src="css/gfx/lin-icon.png" alt="LinkedIn Icon" class="social"/></a>
           <a href="http://www.github.com/brockero" target="_blank"><img src="css/gfx/gh-icon.png" alt="GitHub Icon" class="social"/></a>
-          <!--<a href="http://www.behance.net/brockdelebreau" target="_blank"><img src="css/gfx/be-icon.png" alt="Behance Icon" class="social"/></a>
-          <a href="http://www.dribbble.com/brockdelebreau" target="_blank"><img src="css/gfx/drib-icon.png" alt="Dribbble Icon" class="social"/></a>-->
+          <a href="http://www.behance.net/brockdelebreau" target="_blank"><img src="css/gfx/be-icon.png" alt="Behance Icon" class="social"/></a>
+          <a href="http://www.dribbble.com/brockdelebreau" target="_blank"><img src="css/gfx/drib-icon.png" alt="Dribbble Icon" class="social"/></a>
         </div>
       </div>
     </footer>
