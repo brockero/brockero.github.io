@@ -1,6 +1,11 @@
 /* font-family: 'Raleway', sans-serif;
 font-family: 'Lalezar', cursive; */
 
+.project {
+  height: 80%;
+  width: 80%;
+}
+
 .nav-link {
   color: #363537;
 }

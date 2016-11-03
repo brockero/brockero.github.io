@@ -1,5 +1,10 @@
 # brockero.github.io Change Log
 
+#2016-11-03
+- Created and added favicon to all pages
+- Added new page to Projects folder for individual page template
+- Began work on Project landing template, structure about 75% completed
+
 #2016-11-01
 - Updated to Bootstrap v4.0.0-alpha.5
 - Updated HTML and CSS to reflect changes in Bootstrap
