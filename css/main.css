@@ -2,8 +2,23 @@
 font-family: 'Lalezar', cursive; */
 
 .project {
-  height: 80%;
-  width: 80%;
+  height: 150px;
+  width: auto;
+}
+
+.project-long {
+  height: 150px;
+  width: 400px;
+}
+
+a:link,a:active,a:visited {
+  color: #ef233c;
+  text-decoration:none;
+}
+
+a:hover {
+  color: #bc0009;
+  text-decoration:underline;
 }
 
 .nav-link {

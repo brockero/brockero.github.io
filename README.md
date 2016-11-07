@@ -1,5 +1,11 @@
 # brockero.github.io Change Log
 
+#2016-11-07
+- Finished layout for Projects and added in some initial content (even if it is missing images lol)
+- Created template for individual project pages
+- Created 5 project pages
+- "Completed" project page for my portfolio (still missing some links to information not yet available)
+
 #2016-11-03
 - Created and added favicon to all pages
 - Added new page to Projects folder for individual page template
