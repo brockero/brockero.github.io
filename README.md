@@ -1,5 +1,21 @@
 # brockero.github.io Change Log
 
+#2016-11-10
+- Updated navbar to move style into stylesheet instead of inline stylesheet
+- Updated page linking across website
+- Updated line height for footer
+
+#2016-11-07
+- Finished layout for Projects and added in some initial content (even if it is missing images lol)
+- Created template for individual project pages
+- Created 5 project pages
+- "Completed" project page for my portfolio (still missing some links to information not yet available)
+
+#2016-11-03
+- Created and added favicon to all pages
+- Added new page to Projects folder for individual page template
+- Began work on Project landing template, structure about 75% completed
+
 #2016-11-01
 - Updated to Bootstrap v4.0.0-alpha.5
 - Updated HTML and CSS to reflect changes in Bootstrap
