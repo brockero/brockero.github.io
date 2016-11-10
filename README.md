@@ -4,6 +4,9 @@
 - Updated navbar to move style into stylesheet instead of inline stylesheet
 - Updated page linking across website
 - Updated line height for footer
+- Launched beta of Projects page (even if most of it is broken)
+- Linking changes on to Projects
+- Updated metadata for each and every page currently created
 
 #2016-11-07
 - Finished layout for Projects and added in some initial content (even if it is missing images lol)
