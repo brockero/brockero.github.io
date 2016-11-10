@@ -11,6 +11,10 @@ font-family: 'Lalezar', cursive; */
   width: 400px;
 }
 
+.navbar {
+  color: #edf2f4
+}
+
 a:link,a:active,a:visited {
   color: #ef233c;
   text-decoration:none;

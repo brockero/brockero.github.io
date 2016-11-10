@@ -1,5 +1,10 @@
 # brockero.github.io Change Log
 
+#2016-11-10
+- Updated navbar to move style into stylesheet instead of inline stylesheet
+- Updated page linking across website
+- Updated line height for footer
+
 #2016-11-07
 - Finished layout for Projects and added in some initial content (even if it is missing images lol)
 - Created template for individual project pages
