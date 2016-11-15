@@ -1,5 +1,9 @@
 # brockero.github.io Change Log
 
+#2016-11-15
+- Added "Return to Projects" link to project pages
+- Updated more project content
+
 #2016-11-10
 - Updated navbar to move style into stylesheet instead of inline stylesheet
 - Updated page linking across website
