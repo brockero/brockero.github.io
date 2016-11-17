@@ -8,7 +8,7 @@
 - Updated and edited text on BrockDelebreau.me portfolio page
 - Added new photo to portfolio project page (ugh, I really need to learn more about Illustrator)
 - Continued work on project page content (it's getting there)
-
+- Added logos for all projects
 
 #2016-11-15
 - Added "Return to Projects" link to project pages
