@@ -1,4 +1,18 @@
-# brockero.github.io Change Log
+#brockero.github.io Change Log
+
+#2016-11-17
+- Text updates on non-Project pages
+- Updated resume document
+- New logo and favicon
+- Updated about picture (until another new one next week lol)
+- Updated and edited text on BrockDelebreau.me portfolio page
+- Added new photo to portfolio project page (ugh, I really need to learn more about Illustrator)
+- Continued work on project page content (it's getting there)
+- Added logos for all projects
+
+#2016-11-15
+- Added "Return to Projects" link to project pages
+- Updated more project content
 
 #2016-11-10
 - Updated navbar to move style into stylesheet instead of inline stylesheet
