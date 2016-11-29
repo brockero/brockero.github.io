@@ -6,11 +6,6 @@ font-family: 'Lalezar', cursive; */
   width: auto;
 }
 
-.project-long {
-  height: 150px;
-  width: 400px;
-}
-
 .navbar {
   color: #edf2f4
 }
@@ -221,4 +216,25 @@ figure figcaption {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.bullying {
+  height: 150px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.it {
+  font-style: italic;
+}
+
+#museum {
+  height: auto;
+  width: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
 }
