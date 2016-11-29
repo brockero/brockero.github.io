@@ -1,5 +1,17 @@
 #brockero.github.io Change Log
 
+#2016-11-29
+- WEBSITE UPDATED TO RELEASE CANDIDATE 1
+- New logos and images added to website
+- Work on project page content continues
+- All other pages prepared and ready to go for launch
+- Pages to be completed:
+  - ~~conecterresearch.html~~
+  - ~~designthinking.html~~
+  - ~~msumuseumia.html~~
+  - ~~msumuseumreport.html~~
+- Updated page design to shrink page size by removing a `<br>` on each page
+
 #2016-11-17
 - Text updates on non-Project pages
 - Updated resume document
