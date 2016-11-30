@@ -48,7 +48,7 @@ a:hover {
 
 h1 {
   font-family: 'Lalezar', cursive;
-  font-size: 50px;
+  font-size: 45px;
 }
 
 h2 {
@@ -211,8 +211,8 @@ figure figcaption {
 }
 
 #portfolio {
-  height: auto;
-  width: 450px;
+  height: 300px;
+  width: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
