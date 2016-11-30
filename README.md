@@ -1,5 +1,9 @@
 #brockero.github.io Change Log
 
+#2016-11-30
+- Minor design tweaks to accommodate mobile layouts
+- Minor text fixes
+
 #2016-11-29
 - WEBSITE UPDATED TO RELEASE CANDIDATE 1
 - New logos and images added to website
