@@ -1,5 +1,9 @@
 #brockero.github.io Change Log
 
+#2016-12-06
+- Updated resume
+- New downloadable resume
+
 #2016-11-30
 - Minor design tweaks to accommodate mobile layouts
 - Minor text fixes
