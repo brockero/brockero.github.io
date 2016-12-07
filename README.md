@@ -1,8 +1,15 @@
 #brockero.github.io Change Log
 
+#v1.5 Goals
+- Fix mobile responsiveness
+- Update project page layout
+- Add in email contact form
+- Continue to keep content updated as well
+
 #2016-12-06
 - Updated resume
 - New downloadable resume
+- Updated some project logos too
 
 #2016-11-30
 - Minor design tweaks to accommodate mobile layouts
