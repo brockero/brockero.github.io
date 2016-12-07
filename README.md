@@ -6,7 +6,7 @@
 - Add in email contact form
 - Continue to keep content updated as well
 
-#2016-12-06
+##2016-12-06
 - Updated resume
 - New downloadable resume
 - Updated some project logos too
