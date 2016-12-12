@@ -6,6 +6,10 @@
 - Add in email contact form
 - Continue to keep content updated as well
 
+##2016-12-xx
+- Updated resume HTML to fix errors
+- Updated resume
+
 ##2016-12-06
 - Updated resume
 - New downloadable resume
