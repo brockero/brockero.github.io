@@ -1,14 +1,13 @@
 #brockero.github.io Change Log
 
-##v1.5 Goals
-- Fix mobile responsiveness
-- Update project page layout
-- Add in email contact form
-- Continue to keep content updated as well
-
-##2016-12-xx
-- Updated resume HTML to fix errors
-- Updated resume
+##2017-03-22
+- It has been a while...
+- Updating design and layout, while also updating to the new alpha of Bootstrap
+- Content is also being updated, including resume
+- Project pages are next:
+  - Total rework of the projects page and individual projects to incorporate case studies where appropriate
+    - Projects now listed in more of a timeline view
+    - Have general info (project, client, type of work, dates, etc.), logo, and a link to full page
 
 ##2016-12-06
 - Updated resume
