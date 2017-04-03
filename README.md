@@ -1,10 +1,17 @@
 #brockero.github.io Change Log
 
+##v2 Plans
+- Ensure all view sizes are supported correctly.
+- Redesign projects landing page as well as case study pages.
+- Update projects content to match my goals for that page (case studies and work that is just listed).
+
 ##2017-04-03
+- Launched v1.5!
 - Finished design work on about, resume and contact pages
 - Updated style to remove redundant classes
 - Moved navbar style to CSS instead of inline HTML
 - Updated bio on about page as well
+- Changed projects page to under construction. Final step in the redesign/rework
 
 ##2017-03-22
 - It has been a while...
