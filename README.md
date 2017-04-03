@@ -1,9 +1,10 @@
 #brockero.github.io Change Log
 
 ##2017-04-03
-- Finished work on resume and contact pages
+- Finished design work on about, resume and contact pages
 - Updated style to remove redundant classes
 - Moved navbar style to CSS instead of inline HTML
+- Updated bio on about page as well
 
 ##2017-03-22
 - It has been a while...
