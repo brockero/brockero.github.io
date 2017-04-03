@@ -1,5 +1,10 @@
 #brockero.github.io Change Log
 
+##2017-04-03
+- Finished work on resume and contact pages
+- Updated style to remove redundant classes
+- Moved navbar style to CSS instead of inline HTML
+
 ##2017-03-22
 - It has been a while...
 - Updating design and layout, while also updating to the new alpha of Bootstrap
