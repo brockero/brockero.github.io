@@ -77,6 +77,10 @@ p, ul {
   text-decoration: underline;
 }
 
+.float-left {
+  float: left;
+}
+
 .italic {
   font-style: italic;
 }
