@@ -1,0 +1,182 @@
+/*
+font-family: 'Quattrocento', serif;
+font-family: 'Overpass', sans-serif;
+*/
+
+.container {
+	min-height: 100%;
+	overflow: hidden;
+}
+
+.sidebar, .body {
+	margin-bottom: -9999px;
+	padding-bottom: 9999px;
+}
+
+a:link {
+    color: #FF715B;
+}
+
+a:visited {
+    color: #E86753;
+}
+
+a:hover {
+    color: #BA5343;
+		text-decoration: none;
+}
+
+a:hover#nav {
+	    color: #FF715B;
+			text-decoration: none;
+}
+
+h1 {
+  font-family: 'Overpass', sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+  color: #4C5454;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Overpass', sans-serif;
+  font-size: 18px;
+  color: #95989A;
+  text-align: center;
+}
+
+#dash {
+  font-family: 'Overpass', sans-serif;
+  font-size: 18px;
+  color: #95989A;
+  text-align: center;
+}
+
+#main-content {
+	font-family: 'Quattrocento', serif;
+	font-size: 15px;
+	line-height: 18px;
+}
+
+#me {
+	border-radius: 8px;
+	max-height: 225px;
+	max-width: 225px;
+	float: right;
+}
+
+#nav {
+	font-family: Overpass, sans-serif;
+	color: #4C5454;
+	font-weight: bold;
+}
+
+#nav-list {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#now {
+	color: #4C5454;
+	font-family: 'Overpass', sans-serif;
+	font-size: 18px;
+}
+
+#profile {
+  border-radius: 8px;
+  max-height: 225px;
+  max-width: 225px;
+}
+
+.body {
+  padding-left: 75px;
+}
+
+.body-content {
+	font-family: 'Quattrocento', serif;
+	color: #95989A;
+	font-size: 15px;
+	line-height: 18px;
+}
+
+.body-heading {
+	font-family: 'Overpass', sans-serif;
+	color: #1C77C3;
+	font-size: 15px;
+}
+
+.body-list {
+  margin-top: 10px;
+}
+
+.center {
+	text-align: center;
+}
+
+.content-title {
+	color: #4C5454;
+	text-align: left;
+}
+
+.content-subtitle {
+	color: #95989A;
+	text-align: left;
+}
+
+.copy {
+	margin-top: 5px;
+}
+
+.footer {
+	border-top: 1px solid #95989A;
+	font-family: 'Quattrocento', sans-serif;
+	font-size: 12px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.main-head {
+  border-style: solid;
+  border-width: 1px 0px 1px 0px;
+  border-color: #95989A;
+  font-family: 'Overpass', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  color: #1C77C3;
+}
+
+.padding {
+  padding: 20px;
+}
+
+.project-border {
+	border-bottom: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #DCDEE3, #95989a, #DCDEE3);
+}
+
+.sidebar {
+  border-right: 1px solid #95989A;
+  /*padding-left: 40px;*/
+  padding-right: 75px;
+}
+
+.social {
+  height: 30px;
+  width: 30px;
+}
+
+.social-menu {
+  text-align: center;
+}
+
+.title {
+	font-family: Overpass, sans-serif;
+	color: #1C77C3;
+	font-weight: bold;
+}
