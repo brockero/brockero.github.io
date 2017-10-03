@@ -46,6 +46,11 @@ h2 {
   text-align: center;
 }
 
+p {
+	color: #4C5454;
+	font-size: 16px;
+}
+
 #dash {
   font-family: 'Overpass', sans-serif;
   font-size: 18px;
@@ -57,6 +62,8 @@ h2 {
 	font-family: 'Quattrocento', serif;
 	font-size: 15px;
 	line-height: 18px;
+	font-size: 15px;
+	color: #4C5454;
 }
 
 #me {
@@ -127,6 +134,7 @@ h2 {
 
 .copy {
 	margin-top: 5px;
+	font-size: 12px;
 }
 
 .footer {
