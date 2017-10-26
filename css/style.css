@@ -103,12 +103,12 @@ p {
   padding-left: 75px;
 }
 
-/*.body-content {
+.body-content {
 	font-family: 'Quattrocento', serif;
 	color: #4C5454;
 	font-size: 15px;
 	line-height: 18px;
-}*/
+}
 
 .body-heading {
 	font-family: 'Overpass', sans-serif;
